@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Build-A-Bear Dynamic Email</title>
+    <link href="styles.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Karla:ital,wght@0,200..800;1,200..800&family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td class="header">
+          <h1>Nice to meet you!</h1>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="imageHolder">
+            <img
+              class="logo"
+              src="https://www.buildabear.com/on/demandware.static/-/Library-Sites-BuildABearSharedLibrary/default/dw65604264/images/header/logo-bab-circle.png"
+              alt="Build-A-Bear Workshop Logo"
+            />
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td class="content">
+          <p>
+            <span id="childName" class="var"></span>, we’re so excited that you
+            built your very first furry friend at Build-A-Bear Workshop! Welcome
+            to the Build-A-Bear family—your new friend can’t wait to go on
+            adventures with you.
+          </p>
+
+          <p>
+            You met <span id="bearName" class="var"></span> for the first time
+            on <span id="purchaseDate" class="var"></span> in Build-A-Bears'
+            <span id="storeLocation" class="var"></span> workshop location!
+          </p>
+
+          <h2>To Celebrate, Here’s a Special Gift:</h2>
+          <p>
+            You can get
+            <strong
+              ><span id="discountPercentage" class="var"></span>% off</strong
+            >
+            a new outfit or accessory for your furry friend with this special
+            code: <strong><span id="discountCode" class="var"></span></strong>.
+          </p>
+
+          <h2>What’s Next?</h2>
+          <p>
+            We’ve got some awesome outfits and accessories that we think your
+            new friend would love. Check them out:
+          </p>
+          <table>
+            <tr>
+              <td>
+                <img
+                  class="accessoriesImage"
+                  src="https://www.buildabear.com/dw/image/v2/BBNG_PRD/on/demandware.static/-/Sites-buildabear-master/default/dwb8a7264a/13231211225476x20314019.jpg?sw=400&sh=400&sm=fit"
+                  alt="Pink Shoes"
+                />
+              </td>
+              <td>
+                <img
+                  class="accessoriesImage"
+                  src="https://www.buildabear.com/dw/image/v2/BBNG_PRD/on/demandware.static/-/Sites-buildabear-master/default/dwe7cb2119/15231311228679x20451010.jpg?sw=800&sh=800&sm=fit"
+                  alt="Sunglasses"
+                />
+              </td>
+              <td>
+                <img
+                  class="accessoriesImage"
+                  src="https://www.buildabear.com/dw/image/v2/BBNG_PRD/on/demandware.static/-/Sites-buildabear-master/default/dwadb76df9/79231311228504x20447011.jpg?sw=800&sh=800&sm=fit"
+                  alt="Party Hat"
+                />
+              </td>
+            </tr>
+          </table>
+          <div class="buttonHolder">
+            <a href="#" class="button">Explore Accessories Now</a>
+          </div>
+
+          <!-- Bonus Club Section -->
+          <div id="bonusClubSection">
+            <h2>Join the Build-A-Bear Bonus Club!</h2>
+            <p>
+              Parents, join the Bonus Club to earn points on every purchase, get
+              special offers, and receive a birthday surprise for your child’s
+              furry friend! Sign up today and start collecting rewards with your
+              next visit.
+            </p>
+            <div class="buttonHolder">
+              <a href="#" class="button">Join the Bonus Club</a>
+            </div>
+          </div>
+
+          <p>
+            Thank you for choosing Build-A-Bear Workshop! We hope you and
+            <span id="bearName2" class="var"></span> have lots of fun together.
+            Don’t forget to come back and visit us soon!
+          </p>
+
+          <p>Hugs and High-Fives,<br />The Build-A-Bear Workshop Team</p>
+        </td>
+      </tr>
+    </table>
+
+    <script src="script.js"></script>
+  </body>
+</html>

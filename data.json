@@ -1,0 +1,138 @@
+[
+    {
+      "childName": "Alex",
+      "discountPercentage": 15,
+      "discountCode": "BB15",
+      "bearName": "Fluffy",
+      "purchaseDate": "October 1, 2023",
+      "storeLocation": "St. Louis, MO",
+      "isBonusClubMember": true
+    },
+    {
+      "childName": "Mia",
+      "discountPercentage": 20,
+      "discountCode": "BB20",
+      "bearName": "Teddy",
+      "purchaseDate": "October 2, 2023",
+      "storeLocation": "New York, NY",
+      "isBonusClubMember": false
+    },
+    {
+      "childName": "Noah",
+      "discountPercentage": 25,
+      "discountCode": "BB25",
+      "bearName": "Buzzy",
+      "purchaseDate": "October 3, 2023",
+      "storeLocation": "Los Angeles, CA",
+      "isBonusClubMember": true
+    },
+    {
+      "childName": "Emma",
+      "discountPercentage": 15,
+      "discountCode": "BB15",
+      "bearName": "Snuggles",
+      "purchaseDate": "October 4, 2023",
+      "storeLocation": "Chicago, IL",
+      "isBonusClubMember": false
+    },
+    {
+      "childName": "Oliver",
+      "discountPercentage": 20,
+      "discountCode": "BB20",
+      "bearName": "Mr. Bear",
+      "purchaseDate": "October 5, 2023",
+      "storeLocation": "Houston, TX",
+      "isBonusClubMember": true
+    },
+    {
+      "childName": "Sophia",
+      "discountPercentage": 25,
+      "discountCode": "BB25",
+      "bearName": "Paw",
+      "purchaseDate": "October 6, 2023",
+      "storeLocation": "Philadelphia, PA",
+      "isBonusClubMember": false
+    },
+    {
+      "childName": "Benjamin",
+      "discountPercentage": 15,
+      "discountCode": "BB15",
+      "bearName": "Gummy",
+      "purchaseDate": "October 7, 2023",
+      "storeLocation": "Phoenix, AZ",
+      "isBonusClubMember": true
+    },
+    {
+      "childName": "Lucas",
+      "discountPercentage": 20,
+      "discountCode": "BB20",
+      "bearName": "Cuddles",
+      "purchaseDate": "October 8, 2023",
+      "storeLocation": "San Antonio, TX",
+      "isBonusClubMember": false
+    },
+    {
+      "childName": "Amelia",
+      "discountPercentage": 25,
+      "discountCode": "BB25",
+      "bearName": "Whiskers",
+      "purchaseDate": "October 9, 2023",
+      "storeLocation": "San Diego, CA",
+      "isBonusClubMember": true
+    },
+    {
+      "childName": "Charlotte",
+      "discountPercentage": 15,
+      "discountCode": "BB15",
+      "bearName": "Buttons",
+      "purchaseDate": "October 10, 2023",
+      "storeLocation": "Dallas, TX",
+      "isBonusClubMember": false
+    },
+    {
+      "childName": "Jack",
+      "discountPercentage": 20,
+      "discountCode": "BB20",
+      "bearName": "Patch",
+      "purchaseDate": "October 11, 2023",
+      "storeLocation": "Austin, TX",
+      "isBonusClubMember": true
+    },
+    {
+      "childName": "Lily",
+      "discountPercentage": 25,
+      "discountCode": "BB25",
+      "bearName": "Sparkle",
+      "purchaseDate": "October 12, 2023",
+      "storeLocation": "San Jose, CA",
+      "isBonusClubMember": false
+    },
+    {
+      "childName": "James",
+      "discountPercentage": 15,
+      "discountCode": "BB15",
+      "bearName": "Cloud",
+      "purchaseDate": "October 13, 2023",
+      "storeLocation": "San Francisco, CA",
+      "isBonusClubMember": true
+    },
+    {
+      "childName": "Isabella",
+      "discountPercentage": 20,
+      "discountCode": "BB20",
+      "bearName": "Starlight",
+      "purchaseDate": "October 14, 2023",
+      "storeLocation": "Las Vegas, NV",
+      "isBonusClubMember": false
+    },
+    {
+      "childName": "Ethan",
+      "discountPercentage": 25,
+      "discountCode": "BB25",
+      "bearName": "Moonlight",
+      "purchaseDate": "October 15, 2023",
+      "storeLocation": "Orlando, FL",
+      "isBonusClubMember": true
+    }
+  ]
+  

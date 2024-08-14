@@ -1,0 +1,82 @@
+.buttonHolder {
+    display: flex;
+
+    justify-content: center ;
+    align-items: center;
+  }
+
+  .link {
+    color: #ff4f41 !important;
+}
+
+.bonusClubSection {
+    border: 1px solid black;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  .var {
+    text-decoration: underline;
+    text-decoration-color: #ff6f61;
+  }
+
+
+  .imageHolder {
+    padding-top: 10px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+
+  }
+  table {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-collapse: collapse;
+  }
+  .header {
+    background-color: #ff6f61;
+    color: white;
+    padding: 5px;
+    text-align: center;
+  }
+  .content {
+    padding: 20px;
+    font-family: "Josefin Sans", sans-serif;
+    line-height: 115%;
+    color: #333333;
+  }
+  .button {
+    background-color: #ff6f61;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  .button:hover {
+    background-color: #ff4f41;
+  }
+  
+  ul {
+    list-style: none;
+  }
+
+  .accessoriesImage {
+    width: 170px;
+    height: auto;
+  }
+
+
+
