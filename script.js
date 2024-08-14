@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
       document.getElementById("storeLocation").textContent =
         customerData.storeLocation;
 
-      // Optional: Hide or show the Bonus Club section based on membership
+      //Hide or show the Bonus Club section based on membership
       const bonusClubSection = document.getElementById("bonusClubSection");
       if (!customerData.isBonusClubMember) {
         bonusClubSection.style.display = "none";
