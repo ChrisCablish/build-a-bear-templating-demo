@@ -6,11 +6,18 @@
   }
 
   .link {
-    color: #ff4f41 !important;
+    color: #EDB023 !important;
 }
 
-.bonusClubSection {
-    border: 1px solid black;
+.imageData {
+    text-align: center;
+    vertical-align: middle;
+  }
+
+#bonusClubSection {
+    border: 3px solid #EDB023;
+    padding: 8px;
+    margin: 32px 0px;
 }
 
 body {
@@ -25,7 +32,7 @@ body {
 
   .var {
     text-decoration: underline;
-    text-decoration-color: #ff6f61;
+    text-decoration-color: #1779B9;
   }
 
 
@@ -44,19 +51,20 @@ body {
     border-collapse: collapse;
   }
   .header {
-    background-color: #ff6f61;
-    color: white;
-    padding: 5px;
+    background-color: #EDB023;
+    color: #f5c860;
+    padding: 0px;
     text-align: center;
+    font-size: 8px;
   }
   .content {
     padding: 20px;
     font-family: "Josefin Sans", sans-serif;
-    line-height: 115%;
-    color: #333333;
+    line-height: 150%;
+    color: #071735;
   }
   .button {
-    background-color: #ff6f61;
+    background-color: #1779B9;
     color: white;
     text-decoration: none;
     padding: 10px 20px;
@@ -66,7 +74,7 @@ body {
     text-align: center;
   }
   .button:hover {
-    background-color: #ff4f41;
+    background-color: #409edd;
   }
   
   ul {
@@ -76,7 +84,14 @@ body {
   .accessoriesImage {
     width: 170px;
     height: auto;
+    display: block;
   }
+
+  p {
+    margin: 20px 0;
+  }
+
+
 
 
 
