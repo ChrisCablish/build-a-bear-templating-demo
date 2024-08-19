@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       //Hide or show the Bonus Club section based on membership
       const bonusClubSection = document.getElementById("bonusClubSection");
-      if (!customerData.isBonusClubMember) {
+      if (customerData.isBonusClubMember) {
         bonusClubSection.style.display = "none";
       } else {
         bonusClubSection.style.display = "block";
